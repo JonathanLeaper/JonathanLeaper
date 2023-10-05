@@ -13,7 +13,7 @@ Hello, I am currently studying Software Engineering at the University of Ontario
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/-SQLite-7777FF?logo=sqlite&logoColor=white&style=flat" />
 <br/>
-<img src="https://img.shields.io/badge/-C++-77FF77?logo=cplusplus&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/-Arduino-0E5980?logo=arduino&logoColor=white&style=flat" />
 <span/>
 
