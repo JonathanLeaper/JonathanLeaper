@@ -2,7 +2,6 @@
 Hello, I am currently studying Software Engineering at the University of Ontario Institute of Technology (Ontario Tech University).
 
 ## Skills :wrench:
-### We love these
 <span>
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=flat" />
