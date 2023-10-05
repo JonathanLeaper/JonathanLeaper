@@ -2,8 +2,14 @@
 Hello, I am currently studying Software Engineering at the University of Ontario Institute of Technology (Ontario Tech University).
 
 ## Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanLeaper)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JonathanLeaper)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api?username=JonathanLeaper&title_color=7dc4e4&bg_color=24273a&icon_color=7dc4e4&text_color=c9cacc&hide_border=true" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img align="center" style="margin:1rem 0.5rem" src="https://streak-stats.demolab.com?user=JonathanLeaper&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=24273A&fire=F5A97F&ring=EED49F&stroke=5B6078&currStreakNum=CAD3F5&sideNums=CAD3F5&currStreakLabel=F5A97F&sideLabels=B8C0E0&dates=A5ADCB" />
+  </a>
+</p>
 
 ## Skills :wrench:
 <span>
