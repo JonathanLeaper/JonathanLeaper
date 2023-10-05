@@ -24,4 +24,4 @@ Hello, I am currently studying Software Engineering at the University of Ontario
 <span/>
 
 ### Contact me :mailbox_with_mail:
-<a title="jonathan.leaper@ontariotechu.net" href="https://mail.google.com/mail/u/0/#inbox?compose=VpCqJTBqNPpvKNScWZsJrqHVCBWdhDKwSJDBzJMsSJTjbVXQsthLNWbKNfddvvcbVbbHhVV" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+<a title="jonathan.leaper@ontariotechu.net" href="https://mail.google.com/mail/u/0/#inbox?compose=VpCqJTBqNPpvKNScWZsJrqHVCBWdhDKwSJDBzJMsSJTjbVXQsthLNWbKNfddvvcbVbbHhVV" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
