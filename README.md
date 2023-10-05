@@ -3,7 +3,7 @@ Hello, I am currently studying Software Engineering at the University of Ontario
 
 ## Skills :wrench:
 <span>
-  <a href="">
+  <a href="https://devdocs.io/javascript/">
     <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat" title="Javascript"/>
   </a>
   <a href="https://www.typescriptlang.org/">
