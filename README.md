@@ -2,7 +2,7 @@
 Hello, I am currently studying Software Engineering at the University of Ontario Institute of Technology (Ontario Tech University).
 
 ## Skills :wrench:
-### I have touched all of these
+### We love these
 <span>
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=flat" />
@@ -12,6 +12,9 @@ Hello, I am currently studying Software Engineering at the University of Ontario
 <br/>
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/-SQLite-7777FF?logo=sqlite&logoColor=white&style=flat" />
+<br/>
+<img src="https://img.shields.io/badge/-C++-77FF77?logo=cplusplus&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/-Arduino-0E5980?logo=arduino&logoColor=white&style=flat" />
 <span/>
 
 
