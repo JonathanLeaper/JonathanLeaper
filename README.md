@@ -4,7 +4,7 @@ Hello, I am currently studying Software Engineering at the University of Ontario
 ## Skills :wrench:
 <span>
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=flat" href="https://www.typescriptlang.org/" />
 <br/>
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?logo=tailwind css&logoColor=white&style=flat" />
