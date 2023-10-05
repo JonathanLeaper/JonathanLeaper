@@ -1,6 +1,10 @@
 ## Introduction :wave:
 Hello, I am currently studying Software Engineering at the University of Ontario Institute of Technology (Ontario Tech University).
 
+## Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanLeaper)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JonathanLeaper)](https://git.io/streak-stats)
+
 ## Skills :wrench:
 <span>
   <a href="https://devdocs.io/javascript/">
