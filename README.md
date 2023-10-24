@@ -1,5 +1,5 @@
 ## Introduction :wave:
-Hello, I am currently studying Software Engineering at the University of Ontario Institute of Technology (Ontario Tech University).
+Hello, I am currently studying Software Engineering at Ontario Tech University.
 
 ## Github Stats
 <p align="center">
