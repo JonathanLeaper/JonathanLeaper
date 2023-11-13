@@ -1,6 +1,7 @@
 ## Introduction :wave:
 Hello, I am currently studying Software Engineering at Ontario Tech University.
 
+[comment] <> (
 ## Github Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -10,6 +11,7 @@ Hello, I am currently studying Software Engineering at Ontario Tech University.
     <img align="center" style="margin:1rem 0.5rem" src="https://streak-stats.demolab.com?user=JonathanLeaper&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=24273A&fire=F5A97F&ring=EED49F&stroke=5B6078&currStreakNum=CAD3F5&sideNums=CAD3F5&currStreakLabel=F5A97F&sideLabels=B8C0E0&dates=A5ADCB" />
   </a>
 </p>
+)
 
 ## Skills :wrench:
 <span>
