@@ -42,7 +42,7 @@ Hello, I am currently studying Software Engineering at Ontario Tech University.
   </a>
 <span/>
 
-### Tools are the best 🧰
+### Setup 🧰
 <span>
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" title="Git" />
